@@ -6,7 +6,3 @@ mkdir /usr/lib/jvm
 cd /usr/lib/jvm
 tar xzf ~/openjdk-16.0.2_linux-aarch64_bin.tar.gz
 nano /etc/environment
-PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/jdk-16.0.2/bin:/usr/lib/jvm/jdk-16.0.2/jre/bin"
-J2SDKDIR="/usr/lib/jvm/jdk-16.0.2"
-J2REDIR="/usr/lib/jvm/jdk-16.0.2/jre"
-JAVA_HOME="/usr/lib/jvm/jdk-16.0.2"
