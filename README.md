@@ -13,11 +13,12 @@ Use termux to host your own minecraft server using the stupidest fastest server 
 pkg update && pkg upgrade
 ```
 Then you can just press enter on your keyboard everytime it ask to say y/n
+
 2. Install proot-distro
 ```bash
 pkg install proot-distro -y
 ```
-3. Install Ubuntu (What i tested) Or debian (I didnt test yet).Replace the <distro> to debian or ubuntu.
+3. Install Ubuntu Or Debian
 ```bash
 proot-distro install <distro>
 ```
