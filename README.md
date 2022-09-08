@@ -47,9 +47,11 @@ proot-distro login <distro>
 ```
 5. Script to install java & set it up!
 ```bash
-In progress
+curl https://raw.githubusercontent.com/DevPoli/TermuxPaperMC/main/installjava | bash
 ```
-6. Now let install the minecraft server!
+6. After nano pop up press Ctrl+S And Ctrl+X
+
+7. Now let get to install PaperMC!
 ```bash
-In progress
+curl https://raw.githubusercontent.com/DevPoli/TermuxPaperMC/main/installjava2 | bash
 ```
