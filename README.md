@@ -49,9 +49,21 @@ proot-distro login <distro>
 ```bash
 curl https://raw.githubusercontent.com/DevPoli/TermuxPaperMC/main/installjava | bash
 ```
-6. After nano pop up press Ctrl+S And Ctrl+X
+6. After nano pop up before the " paste this
+```
+:/usr/lib/jvm/jdk-16.0.2/bin:/usr/lib/jvm/jdk-16.0.2/jre/bin
+```
+7. Then use your arrow to go after " then press enter to make a new line!
 
-7. Now let get to install PaperMC!
+8. Then paste this another code
+```
+J2SDKDIR="/usr/lib/jvm/jdk-16.0.2"
+J2REDIR="/usr/lib/jvm/jdk-16.0.2/jre"
+JAVA_HOME="/usr/lib/jvm/jdk-16.0.2"
+```
+9. Now press Ctrl+S and Ctrl+X
+
+10. Now let get to install PaperMC!
 ```bash
 curl https://raw.githubusercontent.com/DevPoli/TermuxPaperMC/main/installjava2 | bash
 ```
