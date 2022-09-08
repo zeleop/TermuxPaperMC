@@ -16,7 +16,7 @@ Then you can just press enter on your keyboard everytime it ask to say y/n
 
 Optional (If you wanted to make thing faster and use pc and ssh into your termux server)
 ```bash
-pkg install openssh
+pkg install openssh -y
 ```
 ```bash
 sshd
@@ -43,11 +43,11 @@ proot-distro install <distro>
 ```
 4. Update distro
 ```bash
-apt update && apt upgrade -y
+apt update && apt upgrade
 ```
 5. Install this pakages
 ```bash
-apt install sudo
-apt install wget
-apt install nano
+apt install sudo -y
+apt install wget -y
+apt install nano -y
 ```
