@@ -45,11 +45,11 @@ proot-distro install <distro>
 ```bash
 proot-distro login <distro>
 ```
-5. Update distro
+5. Script to install java & set it up!
 ```bash
-apt update && apt upgrade
+In progress
 ```
-6. Install this pakages
+6. Now let install the minecraft server!
 ```bash
-apt install sudo -y && apt install wget -y && apt install nano -y
+In progress
 ```
