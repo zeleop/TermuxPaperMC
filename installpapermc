@@ -1,0 +1,12 @@
+#!/bin/bash
+cd
+mkdir papermc
+cd papermc
+wget https://api.papermc.io/v2/projects/paper/versions/1.16.5/builds/794/downloads/paper-1.16.5-794.jar
+mv paper-1.16.5-794.jar paper.jar
+clear && sh start.sh
+echo "type nano eula.txt and set eula to true!"
+echo "Command for changing stuff!"
+echo "nano server.properties <- change server setting!"
+echo "sh start.sh <- start server"
+echo "Yes this server support plugins! (if you don't know how to install it then watch my videos!"
