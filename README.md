@@ -10,8 +10,10 @@ Use termux to host your own minecraft server using the stupidest fastest server 
 1. Update your termux (Important lol)
 
 ```bash
-pkg update && pkg upgrade -y
+pkg update && pkg upgrade
 ```
+Then you can just press enter on your keyboard everytime it ask to say y/n
+
 Optional (If you wanted to make thing faster and use pc and ssh into your termux server)
 ```bash
 pkg install openssh
