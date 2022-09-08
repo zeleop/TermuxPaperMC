@@ -1,5 +1,7 @@
 #!/bin/bash
-apt install sudo -y && apt install wget -y && apt install nano -y
+apt install sudo -y
+apt install wget -y
+apt install nano -y
 wget https://download.java.net/java/GA/jdk16.0.2/d4a915d82b4c4fbb9bde534da945d746/7/GPL/openjdk-16.0.2_linux-aarch64_bin.tar.gz
 mkdir /usr/lib/jvm
 cd /usr/lib/jvm
