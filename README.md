@@ -48,7 +48,7 @@ proot-distro login <distro>
 ```
 5. Script to install java & set it up!
 ```bash
-curl https://raw.githubusercontent.com/DevPoli/TermuxPaperMC/main/installjava | bash
+curl https://raw.githubusercontent.com/DevPoli/TermuxPaperMC/main/installjava1 | bash
 ```
 6. After nano pop up before the " paste this
 ```
