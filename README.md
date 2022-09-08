@@ -41,11 +41,15 @@ pkg install proot-distro -y
 ```bash
 proot-distro install <distro>
 ```
-4. Update distro
+4. Login to your distro
+```bash
+proot-distro login <distro>
+```
+5. Update distro
 ```bash
 apt update && apt upgrade
 ```
-5. Install this pakages
+6. Install this pakages
 ```bash
 apt install sudo -y
 apt install wget -y
