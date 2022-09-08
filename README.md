@@ -51,7 +51,5 @@ apt update && apt upgrade
 ```
 6. Install this pakages
 ```bash
-apt install sudo -y
-apt install wget -y
-apt install nano -y
+apt install sudo -y && apt install wget -y && apt install nano -y
 ```
