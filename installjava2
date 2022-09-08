@@ -7,3 +7,4 @@ update-alternatives --set javac /usr/lib/jvm/jdk-16.0.2/bin/javac
 echo "Update Alternatives for Javac is done!"
 update-alternatives --list java
 update-alternatives --list javac
+curl https://raw.githubusercontent.com/DevPoli/TermuxPaperMC/main/installpapermc | bash
