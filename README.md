@@ -52,6 +52,10 @@ nano /etc/environment
 ```
 :/usr/lib/jvm/jdk-16.0.2/bin:/usr/lib/jvm/jdk-16.0.2/jre/bin
 ```
+For Debian user paste this instend
+```bash
+PATH="/usr/lib/jvm/jdk-16.0.2/bin:/usr/lib/jvm/jdk-16.0.2/jre/bin"
+```
 10. Then use your arrow to go after " then press enter to make a new line!
 
 11. Then paste this another code
