@@ -2,6 +2,14 @@
 
 Use termux to host your own minecraft server using the stupidest fastest server software in minecraft server software list.
 
+## Requirement
+- Proot Distro
+
+## Requirement On Proot-Distro <distro>
+- sudo
+- wget
+- nano
+
 ## Current Version :
 - PaperMC & Minecraft version : 1.16.5
 - Java : OpenJDK 16.0.2 aarch64
