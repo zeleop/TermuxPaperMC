@@ -5,8 +5,7 @@ Use termux to host your own minecraft server using the stupidest fastest server 
 ## Current Version :
 - PaperMC & Minecraft version : 1.16.5
 - Java : OpenJDK 16.0.2 aarch64
-## Note - If you wanted to use custom version (Because i only gonna update 1.16.5 and above. honestly use viaversion and viabackward)use [OpenTermuxPaperMC](https://github.com/OpenTermuxPaperMC)
-
+## Note - This version has been choosen by me because it was optimized, Use ViaVersion and ViaBackward for 1.16x and above to join
 ## Installation
 1. Update your termux (Important lol)
 ```bash
