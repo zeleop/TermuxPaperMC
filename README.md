@@ -44,6 +44,7 @@ apt install nano
 curl https://raw.githubusercontent.com/DevPoli/TermuxPaperMC/main/java-installation | bash
 ```
 8. Now let put java enviroment!
+## DO NOT TRY IF YOU USE DEBIAN
 ```bash
 nano /etc/environment
 ```
@@ -53,7 +54,7 @@ nano /etc/environment
 ```
 For Debian user paste this instend
 ```bash
-PATH="/usr/lib/jvm/jdk-16.0.2/bin:/usr/lib/jvm/jdk-16.0.2/jre/bin"
+REMOVED!
 ```
 10. Then use your arrow to go after " then press enter to make a new line!
 
